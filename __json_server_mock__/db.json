@@ -31,36 +31,31 @@
       "id": 1,
       "name": "产品管理",
       "personId": 1,
-      "organization": "组1",
-      "created": 1604989757139
+      "organization": "组1"
     },
     {
       "id": 2,
       "name": "人员管理",
       "personId": 2,
-      "organization": "组1",
-      "created": 1604989757139
+      "organization": "组1"
     },
     {
       "id": 3,
       "name": "仓库管理",
       "personId": 1,
-      "organization": "组1",
-      "created": 1604989757139
+      "organization": "组1"
     },
     {
       "id": 4,
       "name": "运营管理",
       "personId": 1,
-      "organization": "组1",
-      "created": 1604989757139
+      "organization": "组1"
     },
     {
       "id": 5,
       "name": "机器管理",
       "personId": 2,
-      "organization": "组1",
-      "created": 1604989757139
+      "organization": "组1"
     }
   ]
 }
