@@ -21,7 +21,7 @@ export const useMount = (callback: () => void) => {
 };
 
 // 目的是延迟修改目标值value
-export const useDebounce = (value: any, delay?: number) => {
+export const useDebounce = <V>(value: V, delay?: number) => {
   const [debounceValue, setDebounceValue] = useState(value);
   useEffect(() => {
     // 每次在value变化后，设置一个新的定时器，
